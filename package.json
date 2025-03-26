@@ -1,0 +1,21 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaFerraro18/express-blog-intro.git"
+  },
+  "keywords": [],
+  "author": "Angela Ferraro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelaFerraro18/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/AngelaFerraro18/express-blog-intro#readme"
+}
