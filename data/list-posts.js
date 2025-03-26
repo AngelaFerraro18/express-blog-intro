@@ -33,3 +33,7 @@ let postsList = [
     }
    
 ]
+
+//esporto il mio array 
+
+module.exports = postsList;
