@@ -1,0 +1,3 @@
+# EXPRESS JS
+
+L'esercitazione di oggi consiste nella realizzazione di un blog personale dove, giorno per giorno, lo arricchiremo con nuove funzionalità che man mano scopriremo. Oggi useremo principalmente Express JS per creare un server, dopodichè creeremo due rotte: una che fungerà da "homepage" e una da "bacheca" delle foto. Testeremo su Postman se tutto viene eseguito correttamente e soprattutto visualizzato dal client.
