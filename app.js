@@ -6,6 +6,9 @@ const blogList = require('./data/list-posts');
 const app = express();
 const port = 3000;
 
+//creata una cartella "public" al cui interno ho inserito la cartella con le immagini, faccio in modo di farle visualizzare attraverso app.use()
+app.use(express.static('public'));
+
 //creo la route della homepage usando / 
 app.get('/', (req, res) =>{
 
